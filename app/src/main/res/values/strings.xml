@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Moklet Siap Prakerin</string>
+    <string name="moklet_siap_prakerin">Moklet Siap Prakerin</string>
+    <string name="password">Password</string>
+    <string name="todo">todo</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="loading">loading</string>
+    <string name="form_pengajuan_prakerin_siswa">Form Pengajuan Prakerin Siswa</string>
+    <string name="nama_siswa">Nama Siswa</string>
+    <string name="nis">NIS</string>
+    <string name="kelas">Kelas</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telp">No Telp</string>
+    <string name="email">Email</string>
+    <string name="tempat_prakerin">Tempat Prakerin</string>
+    <string name="alamat_prakerin">Alamat Prakerin</string>
+    <string name="textview">TextView</string>
+    <string name="field_email">Email</string>
+    <string name="field_nama">Nama</string>
+    <string name="nama">Nama</string>
+    <string name="revoke">Revoke</string>
+    <string name="logout">Logout</string>
+    <string name="button">Add Form</string>
+    <string name="butt">Kembali Ke Form</string>
+    <string name="ke">Ke Halaman Form</string>
+    <string name="lihat_perusahaan">Lihat Perusahaan</string>
+    <string name="tipe_perusahaan">Tipe Perusahaan:</string>
+    <string name="n">Nama</string>
+    <string name="login">Silahkan Login Terlebih Dahulu</string>
+    <string name="p1">Perusahaan Pilihan Ke-1</string>
+    <string name="p2">Perusahaan Pilihan Ke-2</string>
+
+    <string-array name="kelas">
+        <item>XI RPl-1</item>
+        <item>XI RPl-2</item>
+        <item>XI RPl-3</item>
+        <item>XI RPl-4</item>
+        <item>XI RPl-5</item>
+        <item>XI RPl-6</item>
+        <item>XI TKJ-1</item>
+        <item>XI TKJ-2</item>
+        <item>XI TKJ-3</item>
+        <item>XI TKJ-4</item>
+        <item>XI TKJ-5</item>
+        <item>XI TKJ-6</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Mengajukan Sendiri</item>
+        <item>Dari Sekolah</item>
+    </string-array>
+
+</resources>
